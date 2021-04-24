@@ -1,0 +1,49 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+}
+
+p {
+    color: #f800ae;
+    /* font-size: 300px; */
+}
+
+a {
+    background-color: #fff;
+    color: #f800ae;
+    padding: 14px 25px;
+    border-left: 5px solid;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    transition: 0.3s ease;
+}
+
+a:hover {
+    background-color: #f800ae;
+    color: yellow;
+    transition: 0.3s ease;
+}
+
+.ptag {
+    font-size: 40px;
+    transition: 2s ease;
+}
+
+.ptag:hover {
+    font-size: 24px;
+    color: royalblue;
+    transition: 2s ease;
+}
+
+.new {
+    font-size: 40px;
+    color: rgb(248, 0, 174);
+    transition: 1s ease;
+}
+
+.new:hover {
+    font-size: 300px;
+    color: rgb(0, 217, 255);
+    transition: 1s ease;
+}
