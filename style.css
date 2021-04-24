@@ -3,6 +3,10 @@
     font-size: 24px;
 }
 
+body {
+    color: black;
+}
+
 p {
     color: #f800ae;
     /* font-size: 300px; */
