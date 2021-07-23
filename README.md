@@ -3,6 +3,8 @@ This is a website I made.
 
 Also a practice of Git.
 
+git clone - clone a repo
+
 git status - displays current state of the directory.
 
 git log - see commit history of repo
